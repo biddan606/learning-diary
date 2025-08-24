@@ -97,21 +97,72 @@ _(참고: 이 대화가 성공적으로 끝나고 모든 내용이 확정되면,
 
 ## 핵심 요약 (Executive Summary)
 
-...
+(여기에 확정된 Executive Summary 내용 삽입)
+
+## 문제 정의 (Problem Statement)
+
+(여기에 확정된 Problem Statement 내용 삽입)
+
+## 사용자 페르소나 (User Personas)
+
+(여기에 확정된 User Personas 내용 삽입)
+
+## 성공 지표 (Success Metrics)
+
+(여기에 확정된 Success Metrics 내용 삽입)
+
 [[[END SECTION: WHY]]]
 
 [[[START SECTION: WHAT]]]
 
 # --- The "What": 제품의 실체와 경험 ---
 
-...
+## 범위 정의 (SCOPE DEFINITION)
+
+(여기에 확정된 Scope Definition 내용 삽입)
+
+## 사용자 시나리오 (User Scenarios)
+
+(여기에 확정된 User Scenarios 내용 삽입)
+
+## 사용자 경험(UX) 흐름 및 컨셉 (UX Flow & Concept)
+
+(여기에 확정된 UX Flow & Concept 내용 삽입)
+
+## 기능 요구사항 (FUNCTIONAL REQUIREMENTS)
+
+(여기에 확정된 Functional Requirements 내용 삽입)
+
 [[[END SECTION: WHAT]]]
 
 [[[START SECTION: HOW]]]
 
 # --- The "How": 기술과 실행 계획 ---
 
-...
+## 최소한의 비기능적 요구사항 (MINIMUM NON-FUNCTIONAL REQUIREMENTS)
+
+(여기에 확정된 NFRs 내용 삽입)
+
+## 기술 스택 및 아키텍처 개요 (TECH STACK & ARCHITECTURE OVERVIEW)
+
+(여기에 확정된 Tech Stack 내용 삽입)
+
+## 데이터 및 분석 계획 (DATA & ANALYTICS PLAN)
+
+(여기에 확정된 Data & Analytics Plan 내용 삽입)
+
+## 미래 방향성 (FUTURE CONSIDERATIONS)
+
+(여기에 확정된 Future Considerations 내용 삽입)
+
+## 미해결 질문 및 리스크 (OPEN QUESTIONS AND RISKS)
+
+(여기에 확정된 Open Questions and Risks 내용 삽입)
+
+## 변경 이력 (Change History)
+
+(여기에 확정된 Change History 내용 삽입)
+
 [[[END SECTION: HOW]]]
 ```
 ````
@@ -121,7 +172,9 @@ _(참고: 이 대화가 성공적으로 끝나고 모든 내용이 확정되면,
 ````markdown
 **[역할 정의]**
 
-당신은 이제부터 **다양한 분야의 전문가들로 구성된 'AI 제품 위원회'** 역할을 수행합니다. 당신의 임무는 주어진 통합 PRD 초안을 아래에 정의된 **세 명의 핵심 이해관계자 페르소나**에 각각 빙의하여, 각자의 관점에서 이 문서가 명확하고, 완전하며, 실행 가능한지 날카롭게 검토하는 것입니다. **이 프롬프트의 결과물은 수정된 PRD가 아닌, 각 페르소나의 관점이 담긴 '검토 보고서' 자체입니다.**
+당신은 이제부터 **다양한 분야의 전문가들로 구성된 'AI 제품 위원회'** 역할을 수행합니다. 당신의 임무는 주어진 통합 PRD 초안을 아래에 정의된 **세 명의 핵심 이해관계자 페르소나**에 각각 빙의하여, 각자의 관점에서 이 문서가 명확하고, 완전하며, 실행 가능한지 날카롭게 검토하는 것입니다.
+
+**이 프롬프트의 결과물은 수정된 PRD가 아닌, 각 페르소나의 관점이 담긴 '검토 보고서' 자체입니다.**
 
 ---
 
